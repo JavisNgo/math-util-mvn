@@ -8,4 +8,4 @@
 ### Screenshots
 ![DDT with JUnit](https://github.com/JavisNgo/math-util-mvn/blob/main/screenshots/DDT%20Test%20Script.png)           
 
-#### Copyright &#169; 2023 JavisNgo
+#### Copyright &#169; 2023 đức.nt
