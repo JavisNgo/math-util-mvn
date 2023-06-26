@@ -21,7 +21,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Set up JDK 16 - American's sever let me install JDK 16
+    - name: Set up JDK 16 - American's server let me install JDK 16
       uses: actions/setup-java@v3
       with:
         java-version: '16'
@@ -36,5 +36,5 @@ jobs:
     - name: Make hyperlink to jar-war file # Tạo hyperlink để download build 
       uses: actions/upload-artifact@v1
       with:
-        name: invite-recruiter-to-see-jar.zip #Nén file .jar ở target Mỹ thành .zip để download
+        name: invite-recruiters-to-see-jar.zip #Nén file .jar ở target Mỹ thành .zip để download
         path: staging
